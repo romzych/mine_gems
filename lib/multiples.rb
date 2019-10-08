@@ -26,6 +26,3 @@ def sum_of_3_or_5_multiples(final_number)
         return count_sum_of
     end
 end
-
-final_number = -1
-puts sum_of_3_or_5_multiples(final_number)
